@@ -1,4 +1,4 @@
-# Bonkfun Sniper
+# 🚀🚀🚀 Bonkfun Sniper 🚀🚀🚀 
 
 This bot allows can snipe new launched tokens on BONKFUN.
 It has greate speed since its using grpc and well optimized.
