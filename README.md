@@ -25,8 +25,8 @@ A TypeScript-based Solana bundler for creating and trading tokens on Pump.fun wi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/hodlwarden/punfun-mayhem-bundler-token2022.git
-cd punfun-mayhem-bundler-token2022
+git clone https://github.com/hodlwarden/pumpfun-mayhem-bundler-token2022.git
+cd pumpfun-mayhem-bundler-token2022
 ```
 
 2. Install dependencies:
