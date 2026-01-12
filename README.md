@@ -24,6 +24,10 @@ A sophisticated trading bot that combines **arbitrage detection** and **copy tra
 - Minimum liquidity requirements
 - Slippage protection
 
+# Contact Me
+If you have any question or collaboration offer, feel free to text me. You're always welcome
+Telegram - [@hodlwarden](https://t.me/hodlwarden)
+
 ## Architecture
 
 ```
