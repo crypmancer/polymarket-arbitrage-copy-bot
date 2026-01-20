@@ -1,8 +1,40 @@
 # Polymarket Arbitrage + Copy Trading Bot
 
+<div align="center">
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Polygon](https://img.shields.io/badge/polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
+
+**A sophisticated trading bot written in Rust that combines arbitrage detection and copy trading strategies on Polymarket**
+
+[Features](#features) • [Quick Start](#setup) • [Documentation](#architecture) • [Contributing](#contributing)
+
+[![GitHub stars](https://img.shields.io/github/stars/crypmancer/polymarket-arbitrage-copy-bot?style=social)](https://github.com/crypmancer/polymarket-arbitrage-copy-bot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/crypmancer/polymarket-arbitrage-copy-bot?style=social)](https://github.com/crypmancer/polymarket-arbitrage-copy-bot/network/members)
+
+</div>
+
+---
+
 A sophisticated **trading bot** written in **Rust** that combines **arbitrage detection** and **copy trading** strategies on **Polymarket**. This bot monitors successful wallets (like arbitrage-focused bots) and selectively copies their trades when arbitrage opportunities are detected.
 
 **Keywords**: `polymarket` `arbitrage` `copy-trading` `trading-bot` `rust` `polygon` `prediction-markets` `automated-trading` `defi` `ethereum` `blockchain` `market-making` `risk-management` `wallet-monitoring` `crypto-trading` `quantitative-trading` `algorithmic-trading` `polymarket-api` `polygon-blockchain` `smart-contracts` `web3` `trading-strategy` `arbitrage-bot` `copy-trade` `polymarket-bot`
+
+## 📋 Table of Contents
+
+- [Features](#features)
+- [Quick Start](#setup)
+- [Architecture](#architecture)
+- [Configuration](#configuration)
+- [How It Works](#how-it-works)
+- [Strategy Logic](#strategy-logic)
+- [Development](#development)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Topics
 
@@ -541,6 +573,8 @@ Polymarket introduced taker fees on short-term markets (15-min crypto markets):
 
 ## Contributing
 
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
 This is a starting point for a trading bot. Key areas for improvement:
 
 1. Complete API integrations (wallet monitoring, order signing)
@@ -554,7 +588,7 @@ This is a starting point for a trading bot. Key areas for improvement:
 
 ## License
 
-This is experimental software. Use at your own risk.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **DISCLAIMER**: This software is provided "as is" without warranty of any kind. Trading cryptocurrencies and prediction markets involves substantial risk of loss. The authors are not responsible for any losses incurred from using this software.
 
