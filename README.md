@@ -1,6 +1,12 @@
 # Polymarket Arbitrage + Copy Trading Bot
 
-A sophisticated trading bot written in **Rust** that combines **arbitrage detection** and **copy trading** strategies on Polymarket. This bot monitors successful wallets (like arbitrage-focused bots) and selectively copies their trades when arbitrage opportunities are detected.
+A sophisticated **trading bot** written in **Rust** that combines **arbitrage detection** and **copy trading** strategies on **Polymarket**. This bot monitors successful wallets (like arbitrage-focused bots) and selectively copies their trades when arbitrage opportunities are detected.
+
+**Keywords**: `polymarket` `arbitrage` `copy-trading` `trading-bot` `rust` `polygon` `prediction-markets` `automated-trading` `defi` `ethereum` `blockchain` `market-making` `risk-management` `wallet-monitoring` `crypto-trading` `quantitative-trading` `algorithmic-trading` `polymarket-api` `polygon-blockchain` `smart-contracts` `web3` `trading-strategy` `arbitrage-bot` `copy-trade` `polymarket-bot`
+
+## Topics
+
+`polymarket` • `arbitrage` • `copy-trading` • `trading-bot` • `rust` • `polygon` • `prediction-markets` • `automated-trading` • `defi` • `ethereum` • `blockchain` • `market-making` • `risk-management` • `wallet-monitoring` • `crypto-trading` • `quantitative-trading` • `algorithmic-trading` • `polymarket-api` • `polygon-blockchain` • `smart-contracts` • `web3` • `trading-strategy` • `arbitrage-bot` • `copy-trade` • `polymarket-bot` • `trading-automation` • `crypto-arbitrage` • `defi-trading`
 
 ## Features
 
