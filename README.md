@@ -24,6 +24,12 @@ A sophisticated **trading bot** written in **Rust** that combines **arbitrage de
 
 <img width="1532" height="724" alt="image" src="https://github.com/user-attachments/assets/4acf9a5d-4ea4-435e-b0db-face455a60b3" />
 
+## Contact
+
+For questions, collaboration, or support:
+
+**Telegram**: [@cryp_mancer](https://t.me/cryp_mancer)
+
 
 ## 📋 Table of Contents
 
@@ -595,11 +601,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **DISCLAIMER**: This software is provided "as is" without warranty of any kind. Trading cryptocurrencies and prediction markets involves substantial risk of loss. The authors are not responsible for any losses incurred from using this software.
 
-## Contact
-
-For questions, collaboration, or support:
-
-**Telegram**: [@cryp_mancer](https://t.me/cryp_mancer)
 
 ---
 
